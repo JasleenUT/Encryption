@@ -17,3 +17,5 @@ Decryption
 2. The string before the semicolon is the length, so now we know how many bits we have to extract
 3. Extract the message by extracting the last 2 bits from each pixel
 4. You have the message
+
+The image should be in png format
