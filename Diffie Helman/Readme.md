@@ -1,6 +1,6 @@
 Diffie_Helman.py 
 
-This script will calculate a Diffie Helamn shared key, and with that key, encrypt or decrypt a given message.
+This script will calculate a Diffie Helman shared key, and with that key, encrypt or decrypt a given message.
 
 The input for this assignment will be 5 lines, and will take the form:
 
